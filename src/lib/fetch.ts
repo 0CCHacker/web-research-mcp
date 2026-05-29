@@ -7,7 +7,7 @@ import { ssrfGuard } from './ssrf.js';
 export const FETCH_TIMEOUT_MS = 8_000;
 export const MAX_BODY_BYTES = 2 * 1024 * 1024; // 2 MB
 export const MAX_REDIRECTS = 5;
-export const USER_AGENT = 'WebResearchMCP/0.1 (+https://github.com/0CCHacker)';
+export const USER_AGENT = 'WebResearchMCP/0.1 (+https://github.com/huynhchitai)';
 
 export type FetchOk = {
   ok: true;

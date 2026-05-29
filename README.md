@@ -2,7 +2,7 @@
 
 Give any AI assistant safe, structured web access — fetch, extract, and summarize pages.
 
-> Portfolio Project #11 · [Tai Huynh](https://github.com/0CCHacker)
+> Portfolio Project #11 · [Tai Huynh](https://github.com/huynhchitai)
 
 ---
 
